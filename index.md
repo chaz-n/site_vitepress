@@ -8,6 +8,9 @@ hero:
   tagline: Random stuff
   actions:
     - theme: brand
+      text: About
+      link: /about
+    - theme: alt
       text: Home Server Setup
       link: /home_server_setup/overview
 

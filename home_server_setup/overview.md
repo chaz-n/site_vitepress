@@ -1,9 +1,11 @@
 # Overview of Home Server
 
-test
-
 ## Hardware
 
+
+
 ## Operating System
+
+![neofetch screenshot](images/neofetch.png)
 
 ### Ubuntu 
