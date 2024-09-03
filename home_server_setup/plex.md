@@ -1,1 +1,3 @@
-# Plex
+## Setup
+
+## Media formats

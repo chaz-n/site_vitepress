@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Home Server Setup
-      link: /home_server_setup
+      link: /home_server_setup/overview
 
 features:
   - title: Feature A
